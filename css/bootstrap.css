@@ -6501,7 +6501,7 @@ font-size: 18px;
 	}
 #conteudo1 {
 	width: 100%;
-	font-size: 16px;
+	font-size: 20px;
 }
 
 .panel {
@@ -6510,7 +6510,7 @@ font-size: 18px;
 
 
 .conteudo2 {
-	font-size: 18px;
+	font-size: 20px;
 	}
 
 /* fade on slider */
@@ -6538,7 +6538,9 @@ font-size: 18px;
   z-index: 2;
 }
 
-
+.full {
+	width: 100%
+	}
 
 /** (( FOOTER )) **/
 .footer {
