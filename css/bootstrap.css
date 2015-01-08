@@ -6508,6 +6508,11 @@ font-size: 18px;
 	border-radius: 0 0 4px 4px;
 	}
 
+
+.conteudo2 {
+	font-size: 18px;
+	}
+
 /* fade on slider */
 .carousel-fade .carousel-inner .item {
   opacity: 0;
